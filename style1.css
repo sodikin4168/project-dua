@@ -1,0 +1,103 @@
+.container {
+	width: 900px;
+	margin: auto;
+	background-color: #eaeaea;
+	box-sizing: border-box;
+}
+
+header {
+	background-color: darkcyan;
+	overflow: auto;
+}
+
+header img {
+	padding: 10px;
+	float: left;
+}
+
+header p {
+	color: yellow;
+	font-size: 40px;
+	font-family: Futura Md BT;
+	padding-top: 5px;
+}
+
+nav	{
+	background-color: lightcyan;
+	height: 30px;
+	padding: 5px;
+}
+
+nav a {
+	padding: 10px;
+	text-decoration: none;
+	display: inline-block;
+	font-family: Century Gothic;
+}
+
+nav a:hover {
+	background-color: darkcyan;
+	color: yellow;
+}
+
+marquee {
+	background-color: darkcyan;
+	color: yellow;
+	padding: 10px;
+	margin-top: -5px;
+	font-family: Century Gothic;
+}
+
+main {
+	width: 600px;
+	float: left;
+}
+
+main2 { 
+text-align: center;
+text-decoration: underline;
+ }
+
+ main p {
+ 	font-size: 15px;
+ 	text-indent: 30px;
+ 	text-align: justify;
+ 	padding: 0 10px;
+ 	line-height: 20px;
+ }
+
+ aside img {
+ 	width: 60px;
+ 	height: 80px;
+ 	padding-left: 115px;
+ 	padding-top: 35px;
+ }
+
+ h3, aside p {
+ 	text-align: center;
+ }
+
+ aside .sambutan {
+ 	text-align: justify;
+ 	text-indent: 30px;
+ 	font-size: 14px;
+ 	padding-right: 10px;
+ 	line-height: 20px;
+ }
+
+ footer p {
+ 	color: white;
+ 	text-align: center;
+ 	padding: 10px;
+ }
+
+h2 {
+	text-align: center;
+}
+
+footer {
+	background-color: darkcyan;
+	clear:  both;
+}
+
+
